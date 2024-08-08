@@ -47,7 +47,7 @@ function generateUniqueUsername(fullName: string, email: string): string;
 
 ### `slugify`
 
-Generates a slug from a title and an optional author.
+Generates a slug(unique) from a title and an optional author.
 
 ```typescript
 function slugify(title: string, author: string = 'guest'): string;
