@@ -30,7 +30,8 @@
     "common utilities",
     "javaScript utilities",
     "typeScript utilities",
-    "justy npm-package"
+    "justy npm-package",
+     "genfunc"
   ],
   "homepage": "https://github.com/besaoct/justy#readme",
   "author": "Shafin",
