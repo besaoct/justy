@@ -58,7 +58,7 @@ function slugify(title: string, author: string = 'guest'): string;
 - `title`: The title to slugify.
 - `author`: The author of the title, defaults to 'guest'.
 
-**Returns:** A slug string.
+**Returns:** Unique slug string.
 
 ### `generateUniqueFilename`
 
