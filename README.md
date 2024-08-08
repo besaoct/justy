@@ -14,7 +14,7 @@
 - [Number utility Functions](#number-utility-functions)
 - [JSON utility Functions](#json-utility-functions)
 - [Function utility functions](#function-utility-functions)
-- [Date Utility Functions](#date-utility-functions)
+- [Date utility Functions](#date-utility-functions)
 - [Convert utility functions](#convert-utility-functions)
 - [Array utility functions](#array-utility-functions)
 
@@ -1325,7 +1325,7 @@ const csv = jsonToCsv([{ a: 1, b: 2 }, { a: 3, b: 4 }]);
 console.log(csv);
 ```
 
-## Function Utility Functions
+## Function utility Functions
 
 This module provides utility functions for managing and manipulating other functions.
 
@@ -1454,7 +1454,7 @@ const debouncedFetch = debounceAsync(async () => fetch('https://api.example.com'
 debouncedFetch().then(response => console.log(response));
 ```
 
-## Date Utility Functions
+## Date utility Functions
 
 This module provides a set of utility functions for working with dates in TypeScript/javascript. It includes functions for formatting dates, adding and subtracting time units, checking date properties, and more.
 
