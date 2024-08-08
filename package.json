@@ -1,21 +1,18 @@
 {
   "name": "justy",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-
   "scripts": {
     "build": "node build.js",
     "prepare": "npm run build",
     "test": "jest"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/besaoct/justy"
   },
-
   "keywords": [
     "date functions",
     "conversion functions",
@@ -41,7 +38,7 @@
   "bugs": {
     "url": "https://github.com/besaoct/justy/issues"
   },
-"description": "A versatile utility library for simplifying array and object operations, conversions, date and time manipulations, string and number manipulations, and general-purpose tasks in JavaScript and TypeScript applications.",
+  "description": "A versatile utility library for simplifying array and object operations, conversions, date and time manipulations, string and number manipulations, and general-purpose tasks in JavaScript and TypeScript applications.",
   "files": [
     "dist",
     "README.md",
@@ -62,4 +59,5 @@
     "ts-jest": "^29.2.4",
     "typescript": "^5.5.4"
   }
+
 }
