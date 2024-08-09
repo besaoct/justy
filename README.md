@@ -1,5 +1,5 @@
 
-# justy V0.0.2
+# Justy
 
 `justy` is a versatile utility library for simplifying array and object operations, conversions, date and time manipulations, string and number manipulations, and general-purpose tasks in JavaScript and TypeScript applications. Whether you need to generate unique usernames, truncate strings and numbers, create URL-friendly unique slugs, or perform various other operations, `justy` offers a comprehensive set of functions to streamline your development process.
 
